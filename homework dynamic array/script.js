@@ -1,4 +1,4 @@
-const arr = [];
+const arr = [];   //zadacha 1
 let buttons = document.querySelectorAll(".btn");
 buttons.forEach((btn) => {
   btn.addEventListener("click", (event) => {
